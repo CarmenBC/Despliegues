@@ -44,6 +44,7 @@ public class NumeroPrimo {
         else{
             System.out.println("El numero es primo.");
         }
-        
+         System.out.println("Esto es una prueba para GitHub");
     }
+   
 }
